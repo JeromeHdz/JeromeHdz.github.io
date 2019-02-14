@@ -1,0 +1,203 @@
+html, body {
+  width: 100%;
+  height: 100%;
+  margin: 0;
+}
+
+.ftco-footer-widget ul {
+    position:absolute;
+    top:50%;
+    left:50%;
+    transform:translate(-50%, -50%);
+    display:flex;
+    margin:0;
+    padding:0;
+  }
+  
+  .ftco-footer-widget ul li{
+    list-style:none;
+    margin:0 35px;
+  }
+  
+  .ftco-footer-widget ul li a .fa {
+    font-size: 40px;
+    color: #40BF94;
+    line-height:80px;
+    transition: .5s;
+    padding-right: 14px;
+  }
+  
+  .ftco-footer-widget ul li a span {
+    padding:0;
+    margin:0;
+    position:absolute;
+    top: 30px;
+    color: #ffffff;
+    letter-spacing: 4px;
+    transition: .5s;
+  }
+  
+  .ftco-footer-widget ul li a {
+    text-decoration: none;
+    display:absolute;
+    display:block;
+    width:210px;
+    height:80px;
+    background: #40BF94;
+    text-align:left;
+    padding-left: 20px;
+    transform: rotate(-30deg) skew(25deg) translate(0,0);
+    transition:.5s;
+    box-shadow: -20px 20px 10px rgba(45,174,148,.5);
+  }
+  .ftco-footer-widget ul li a:before {
+    content: '';
+    position: absolute;
+    top:10px;
+    left:-20px;
+    height:100%;
+    width:20px;
+    background: rgb(35, 105, 82);
+    transform: .5s;
+    transform: rotate(0deg) skewY(-45deg);
+  }
+  .ftco-footer-widget ul li a:after {
+    content: '';
+    position: absolute;
+    bottom:-20px;
+    left:-10px;
+    height:20px;
+    width:100%;
+    background: rgb(53, 160, 124);
+    transform: .5s;
+    transform: rotate(0deg) skewX(-45deg);
+  }
+  
+  .ftco-footer-widget ul li a:hover {
+    transform: rotate(-30deg) skew(25deg) translate(20px,-15px);
+    box-shadow: -50px 50px 50px rgba(0,0,0,.5);
+  }
+  
+  .ftco-footer-widget ul li:hover .fa {
+    color:#fff;
+  }
+  
+  .ftco-footer-widget ul li:hover span {
+    color:#fff;
+  }
+  
+  .ftco-footer-widget ul li:hover:nth-child(1) a{
+    background: #3ACE01;
+  }
+  .ftco-footer-widget ul li:hover:nth-child(1) a:before{
+    background: rgb(37, 128, 2);
+  }
+  .ftco-footer-widget ul li:hover:nth-child(1) a:after{
+    background: rgb(90, 196, 48);
+  }
+  
+  .ftco-footer-widget ul li:hover:nth-child(2) a{
+    background: #FFE812;
+  }
+  .ftco-footer-widget ul li:hover:nth-child(2) a:before{
+    background: rgb(201, 182, 15);
+  }
+  .ftco-footer-widget ul li:hover:nth-child(2) a:after{
+    background: rgb(252, 232, 55);
+  }
+  
+  .ftco-footer-widget ul li:hover:nth-child(3) a{
+    background: #3b5998;
+  }
+  .ftco-footer-widget ul li:hover:nth-child(3) a:before{
+    background: #365492;
+  }
+  .ftco-footer-widget ul li:hover:nth-child(3) a:after{
+    background: #4a69ad;
+  }
+
+  .ftco-footer-widget ul li:hover:nth-child(4) a{
+    background: #e4405f;
+  }
+  .ftco-footer-widget ul li:hover:nth-child(4) a:before{
+    background: #d81c3f;
+  }
+  .ftco-footer-widget ul li:hover:nth-child(4) a:after{
+    background: #e46880;
+  }
+
+  .blur-it {
+    filter: blur(4px);
+  }
+  
+  a.btn {
+  }
+  
+  .modal-wrapper {
+    width: 100%;
+    height: 100%;
+    position: fixed;
+    top: 0; 
+    left: 0;
+    background: rgba(41, 171, 164, 0.8);
+    visibility: hidden;
+    opacity: 0;
+    transition: all 0.25s ease-in-out;
+  }
+  
+  .modal-wrapper.open {
+    opacity: 1;
+    visibility: visible;
+  }
+  
+  .modal {
+    width: 400px;
+    
+    display: block;
+    margin: 50% 0 0 -200px;
+    position: relative;
+    top: 30%; 
+    left: 50%;
+    background: #fff;
+    opacity: 0;
+    transition: all 0.5s ease-in-out;
+  }
+
+  .modal img{
+    width:80%;
+  }
+  
+  .modal-wrapper.open .modal {
+    margin-top: -200px;
+    opacity: 1;
+  }
+  
+  .head { 
+    width: 100%;
+    padding: 12px 30px;
+    overflow: hidden;
+    background: #FFDC00;
+  }
+  
+  .btn-close {
+    font-size: 28px;
+    display: block;
+    float: right;
+    color: #fff;
+  }
+  
+  .content {
+    padding: 10%;
+  }
+  
+  .good-job {
+    text-align: center;
+
+    color: #e2525c;
+  }
+  .good-job .fa-thumbs-o-up {
+    font-size: 60px;
+  }
+  .good-job h1 {
+    font-size: 30px;
+  }
