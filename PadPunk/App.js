@@ -26,7 +26,7 @@ function playSound(e){
                 }
                 else{
                     lowPitch = false;
-                    root.style.setProperty('--main-color', "rgb(212, 0, 255)");
+                    root.style.setProperty('--main-color', "rgb(0, 217, 255)");
                     key.classList.remove('playing');
                 }
             break;
