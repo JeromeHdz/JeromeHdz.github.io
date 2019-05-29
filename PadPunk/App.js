@@ -21,12 +21,12 @@ function playSound(e){
         break;
         case 188:
                 if(lowPitch == false){
-                    root.style.setProperty('--main-color', 'deeppink');
+                    root.style.setProperty('--main-color', 'rgb(212, 0, 255)');
                     lowPitch = true;
                 }
                 else{
                     lowPitch = false;
-                    root.style.setProperty('--main-color', "rgb(0, 217, 255)");
+                    root.style.setProperty('--main-color', "rgb(212, 0, 255)");
                     key.classList.remove('playing');
                 }
             break;
