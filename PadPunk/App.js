@@ -1,6 +1,9 @@
-
-
-let lowPitch = false;
+//paste this code under the head tag or in a separate js file.
+	// Wait for window load
+	$(window).load(function() {
+		// Animate loader off screen
+        $(".sk-folding-cube").fadeOut("slow");
+        let lowPitch = false;
 let pitch = "normal";
 let root = document.documentElement;
 let toggleKey = ""; 
@@ -93,3 +96,5 @@ function playSound(e){
   keys.forEach(key => key.addEventListener('transitionend', removeTransition));
   
 window.addEventListener('keydown', playSound);
+	});
+
