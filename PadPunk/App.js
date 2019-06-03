@@ -3,6 +3,13 @@ let pitch = "normal";
 let root = document.documentElement;
 let toggleKey = ""; 
 
+var isChrome = /Chrome/.test(navigator.userAgent) && /Google Inc/.test(navigator.vendor);
+
+if(isChrome){
+    let displayMsg = document.querySelector('#overlay');
+    displayMsg.style.display = "none";
+}
+
 function playSound(e){    
     const audio = document.querySelector(`audio[data-key="${e.keyCode}"]`);
     const key = document.querySelector(`div[data-key="${e.keyCode}"]`);
