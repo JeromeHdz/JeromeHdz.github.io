@@ -1,0 +1,557 @@
+<?xml version="1.0" standalone="no" ?>
+<!DOCTYPE project PUBLIC "-//audacityproject-1.3.0//DTD//EN" "http://audacity.sourceforge.net/xml/audacityproject-1.3.0.dtd" >
+<project xmlns="http://audacity.sourceforge.net/xml/" projname="Audacity-project_data" version="1.3.0" audacityversion="2.1.0" sel0="0.0307223416" sel1="0.0307223416" vpos="2448" h="0.0000000000" zoom="1106.6864784544" rate="44100.0" snapto="off" selectionformat="hh:mm:ss + milliseconds">
+	<tags/>
+	<wavetrack name="Harder Better Faster Stronger (Studio Acapella) - Daft Punk (1)" channel="0" linked="1" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="7752960">
+				<waveblock start="0">
+					<simpleblockfile filename="e0000985.au" len="262144" min="-0.640018" max="0.662513" rms="0.079303"/>
+				</waveblock>
+				<waveblock start="262144">
+					<simpleblockfile filename="e0000155.au" len="262144" min="-0.55945" max="0.621714" rms="0.065273"/>
+				</waveblock>
+				<waveblock start="524288">
+					<simpleblockfile filename="e00008a3.au" len="262144" min="-0.540418" max="0.686645" rms="0.076573"/>
+				</waveblock>
+				<waveblock start="786432">
+					<simpleblockfile filename="e0000a59.au" len="262144" min="-0.629643" max="0.561436" rms="0.07385"/>
+				</waveblock>
+				<waveblock start="1048576">
+					<simpleblockfile filename="e0000b94.au" len="262144" min="-0.664919" max="0.683513" rms="0.085581"/>
+				</waveblock>
+				<waveblock start="1310720">
+					<simpleblockfile filename="e0000725.au" len="262144" min="-0.50897" max="0.605501" rms="0.063552"/>
+				</waveblock>
+				<waveblock start="1572864">
+					<simpleblockfile filename="e00006a1.au" len="262144" min="-0.654192" max="0.551399" rms="0.061032"/>
+				</waveblock>
+				<waveblock start="1835008">
+					<simpleblockfile filename="e0000dd2.au" len="262144" min="-0.61189" max="0.606001" rms="0.077514"/>
+				</waveblock>
+				<waveblock start="2097152">
+					<simpleblockfile filename="e0000ced.au" len="262144" min="-0.707859" max="0.672233" rms="0.116941"/>
+				</waveblock>
+				<waveblock start="2359296">
+					<simpleblockfile filename="e0000880.au" len="262144" min="-0.57272" max="0.663456" rms="0.10517"/>
+				</waveblock>
+				<waveblock start="2621440">
+					<simpleblockfile filename="e0000604.au" len="262144" min="-0.618032" max="0.671402" rms="0.083492"/>
+				</waveblock>
+				<waveblock start="2883584">
+					<simpleblockfile filename="e0000b1f.au" len="262144" min="-0.749109" max="0.718923" rms="0.146545"/>
+				</waveblock>
+				<waveblock start="3145728">
+					<simpleblockfile filename="e0000606.au" len="262144" min="-0.743794" max="0.746722" rms="0.152038"/>
+				</waveblock>
+				<waveblock start="3407872">
+					<simpleblockfile filename="e0000123.au" len="262144" min="-0.746914" max="0.683924" rms="0.146346"/>
+				</waveblock>
+				<waveblock start="3670016">
+					<simpleblockfile filename="e0000822.au" len="262144" min="-0.58736" max="0.631216" rms="0.143533"/>
+				</waveblock>
+				<waveblock start="3932160">
+					<simpleblockfile filename="e0000974.au" len="262144" min="-0.647456" max="0.687512" rms="0.142954"/>
+				</waveblock>
+				<waveblock start="4194304">
+					<simpleblockfile filename="e00009dc.au" len="262144" min="-0.610788" max="0.606444" rms="0.124004"/>
+				</waveblock>
+				<waveblock start="4456448">
+					<simpleblockfile filename="e0000303.au" len="262144" min="-0.725889" max="0.660085" rms="0.150305"/>
+				</waveblock>
+				<waveblock start="4718592">
+					<simpleblockfile filename="e0000c9a.au" len="262144" min="-0.575759" max="0.651466" rms="0.119506"/>
+				</waveblock>
+				<waveblock start="4980736">
+					<simpleblockfile filename="e00005c6.au" len="262144" min="-0.519268" max="0.610494" rms="0.052235"/>
+				</waveblock>
+				<waveblock start="5242880">
+					<simpleblockfile filename="e00004d7.au" len="262144" min="-0.70942" max="0.682228" rms="0.116516"/>
+				</waveblock>
+				<waveblock start="5505024">
+					<simpleblockfile filename="e000041b.au" len="262144" min="-0.612045" max="0.619083" rms="0.130035"/>
+				</waveblock>
+				<waveblock start="5767168">
+					<simpleblockfile filename="e000020f.au" len="262144" min="-0.698308" max="0.71084" rms="0.131133"/>
+				</waveblock>
+				<waveblock start="6029312">
+					<simpleblockfile filename="e0000498.au" len="262144" min="-0.746836" max="0.766645" rms="0.132856"/>
+				</waveblock>
+				<waveblock start="6291456">
+					<simpleblockfile filename="e00004d8.au" len="262144" min="-0.575797" max="0.64718" rms="0.129359"/>
+				</waveblock>
+				<waveblock start="6553600">
+					<simpleblockfile filename="e0000d16.au" len="262144" min="-0.612804" max="0.754036" rms="0.124993"/>
+				</waveblock>
+				<waveblock start="6815744">
+					<simpleblockfile filename="e0000690.au" len="262144" min="-0.663151" max="0.738803" rms="0.117532"/>
+				</waveblock>
+				<waveblock start="7077888">
+					<simpleblockfile filename="e0000b95.au" len="262144" min="-0.656635" max="0.621765" rms="0.131745"/>
+				</waveblock>
+				<waveblock start="7340032">
+					<simpleblockfile filename="e0000d03.au" len="262144" min="-0.667025" max="0.678333" rms="0.14831"/>
+				</waveblock>
+				<waveblock start="7602176">
+					<simpleblockfile filename="e0000b55.au" len="150784" min="-0.393517" max="0.606678" rms="0.026319"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="Harder Better Faster Stronger (Studio Acapella) - Daft Punk (1)" channel="1" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="7752960">
+				<waveblock start="0">
+					<simpleblockfile filename="e000069e.au" len="262144" min="-0.680909" max="0.669999" rms="0.083875"/>
+				</waveblock>
+				<waveblock start="262144">
+					<simpleblockfile filename="e0000d0b.au" len="262144" min="-0.579573" max="0.61275" rms="0.064924"/>
+				</waveblock>
+				<waveblock start="524288">
+					<simpleblockfile filename="e0000ac7.au" len="262144" min="-0.68207" max="0.860995" rms="0.079283"/>
+				</waveblock>
+				<waveblock start="786432">
+					<simpleblockfile filename="e0000369.au" len="262144" min="-0.644743" max="0.666068" rms="0.076938"/>
+				</waveblock>
+				<waveblock start="1048576">
+					<simpleblockfile filename="e00000fc.au" len="262144" min="-0.591446" max="0.684385" rms="0.090378"/>
+				</waveblock>
+				<waveblock start="1310720">
+					<simpleblockfile filename="e000092c.au" len="262144" min="-0.646256" max="0.637617" rms="0.068638"/>
+				</waveblock>
+				<waveblock start="1572864">
+					<simpleblockfile filename="e0000878.au" len="262144" min="-0.701485" max="0.651909" rms="0.068176"/>
+				</waveblock>
+				<waveblock start="1835008">
+					<simpleblockfile filename="e00008a8.au" len="262144" min="-0.726909" max="0.805941" rms="0.084034"/>
+				</waveblock>
+				<waveblock start="2097152">
+					<simpleblockfile filename="e000097f.au" len="262144" min="-0.747664" max="0.710043" rms="0.124259"/>
+				</waveblock>
+				<waveblock start="2359296">
+					<simpleblockfile filename="e00002c0.au" len="262144" min="-0.605461" max="0.826753" rms="0.116045"/>
+				</waveblock>
+				<waveblock start="2621440">
+					<simpleblockfile filename="e00006c3.au" len="262144" min="-0.639575" max="0.758783" rms="0.087058"/>
+				</waveblock>
+				<waveblock start="2883584">
+					<simpleblockfile filename="e0000f88.au" len="262144" min="-0.725265" max="0.764382" rms="0.154438"/>
+				</waveblock>
+				<waveblock start="3145728">
+					<simpleblockfile filename="e00006d7.au" len="262144" min="-0.690149" max="0.775158" rms="0.162057"/>
+				</waveblock>
+				<waveblock start="3407872">
+					<simpleblockfile filename="e0000d00.au" len="262144" min="-0.697556" max="0.768085" rms="0.153825"/>
+				</waveblock>
+				<waveblock start="3670016">
+					<simpleblockfile filename="e0000ba2.au" len="262144" min="-0.673805" max="0.660742" rms="0.154532"/>
+				</waveblock>
+				<waveblock start="3932160">
+					<simpleblockfile filename="e00009f0.au" len="262144" min="-0.741012" max="0.732542" rms="0.154904"/>
+				</waveblock>
+				<waveblock start="4194304">
+					<simpleblockfile filename="e000005a.au" len="262144" min="-0.656621" max="0.732652" rms="0.134826"/>
+				</waveblock>
+				<waveblock start="4456448">
+					<simpleblockfile filename="e00005eb.au" len="262144" min="-0.708725" max="0.687198" rms="0.165367"/>
+				</waveblock>
+				<waveblock start="4718592">
+					<simpleblockfile filename="e0000218.au" len="262144" min="-0.61224" max="0.777436" rms="0.136623"/>
+				</waveblock>
+				<waveblock start="4980736">
+					<simpleblockfile filename="e00003ef.au" len="262144" min="-0.641167" max="0.668531" rms="0.05656"/>
+				</waveblock>
+				<waveblock start="5242880">
+					<simpleblockfile filename="e0000315.au" len="262144" min="-0.722785" max="0.698741" rms="0.12766"/>
+				</waveblock>
+				<waveblock start="5505024">
+					<simpleblockfile filename="e00009d6.au" len="262144" min="-0.698249" max="0.645675" rms="0.135712"/>
+				</waveblock>
+				<waveblock start="5767168">
+					<simpleblockfile filename="e00009a9.au" len="262144" min="-0.716212" max="0.75667" rms="0.139671"/>
+				</waveblock>
+				<waveblock start="6029312">
+					<simpleblockfile filename="e0000f01.au" len="262144" min="-0.84175" max="0.663654" rms="0.145803"/>
+				</waveblock>
+				<waveblock start="6291456">
+					<simpleblockfile filename="e00007f7.au" len="262144" min="-0.703808" max="0.78035" rms="0.133878"/>
+				</waveblock>
+				<waveblock start="6553600">
+					<simpleblockfile filename="e0000516.au" len="262144" min="-0.701356" max="0.784887" rms="0.136903"/>
+				</waveblock>
+				<waveblock start="6815744">
+					<simpleblockfile filename="e0000ef5.au" len="262144" min="-0.776585" max="0.830223" rms="0.128833"/>
+				</waveblock>
+				<waveblock start="7077888">
+					<simpleblockfile filename="e0000777.au" len="262144" min="-0.758503" max="0.707859" rms="0.135843"/>
+				</waveblock>
+				<waveblock start="7340032">
+					<simpleblockfile filename="e0000d64.au" len="262144" min="-0.758042" max="0.755555" rms="0.159282"/>
+				</waveblock>
+				<waveblock start="7602176">
+					<simpleblockfile filename="e00005d6.au" len="150784" min="-0.422288" max="0.707951" rms="0.02699"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="Harder Better Faster Stronger (Studio Acapella) - Daft Punk (1)" channel="0" linked="1" mute="0" solo="1" height="152" minimized="0" isSelected="1" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="20881">
+				<waveblock start="0">
+					<simpleblockfile filename="e0000d73.au" len="20881" min="-0.444362" max="0.591791" rms="0.078561"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="2">
+				<controlpoint t="0.466633249791" val="0.972602725029"/>
+				<controlpoint t="0.473487063492" val="0.027397274971"/>
+			</envelope>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="Harder Better Faster Stronger (Studio Acapella) - Daft Punk (1)" channel="1" linked="0" mute="0" solo="1" height="148" minimized="0" isSelected="1" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="20881">
+				<waveblock start="0">
+					<simpleblockfile filename="e00006a5.au" len="20881" min="-0.487445" max="0.660737" rms="0.083289"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="2">
+				<controlpoint t="0.466633249791" val="0.972602725029"/>
+				<controlpoint t="0.473487063492" val="0.027397274971"/>
+			</envelope>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="Harder Better Faster Stronger (Studio Acapella) - Daft Punk (1)" channel="0" linked="1" mute="0" solo="0" height="152" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="20083">
+				<waveblock start="0">
+					<simpleblockfile filename="e00001d4.au" len="20083" min="-0.397857" max="0.552615" rms="0.076782"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="2">
+				<controlpoint t="0.448184747583" val="0.993150711060"/>
+				<controlpoint t="0.455391825397" val="0.109589040279"/>
+			</envelope>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="Harder Better Faster Stronger (Studio Acapella) - Daft Punk (1)" channel="1" linked="0" mute="0" solo="0" height="148" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="20083">
+				<waveblock start="0">
+					<simpleblockfile filename="e0000d50.au" len="20083" min="-0.491779" max="0.651763" rms="0.091451"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="2">
+				<controlpoint t="0.448184747583" val="0.993150711060"/>
+				<controlpoint t="0.455391825397" val="0.109589040279"/>
+			</envelope>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="Harder Better Faster Stronger (Studio Acapella) - Daft Punk (1)" channel="0" linked="1" mute="0" solo="0" height="152" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="24786">
+				<waveblock start="0">
+					<simpleblockfile filename="e00000f7.au" len="24786" min="-0.528149" max="0.546681" rms="0.084741"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="3">
+				<controlpoint t="0.507822234157" val="1.000000000000"/>
+				<controlpoint t="0.547570558539" val="0.082191765308"/>
+				<controlpoint t="0.562033131042" val="0.000000100000"/>
+			</envelope>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="Harder Better Faster Stronger (Studio Acapella) - Daft Punk (1)" channel="1" linked="0" mute="0" solo="0" height="148" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="24786">
+				<waveblock start="0">
+					<simpleblockfile filename="e00007db.au" len="24786" min="-0.574848" max="0.78129" rms="0.089768"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="3">
+				<controlpoint t="0.507822234157" val="1.000000000000"/>
+				<controlpoint t="0.547570558539" val="0.082191765308"/>
+				<controlpoint t="0.562033131042" val="0.000000100000"/>
+			</envelope>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="Harder Better Faster Stronger (Studio Acapella) - Daft Punk (1)" channel="0" linked="1" mute="0" solo="0" height="152" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="20881">
+				<waveblock start="0">
+					<simpleblockfile filename="e0000628.au" len="20881" min="-0.418071" max="0.502782" rms="0.073456"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="4">
+				<controlpoint t="0.000005000000" val="0.164383590221"/>
+				<controlpoint t="0.009035982814" val="1.000000000000"/>
+				<controlpoint t="0.428305585392" val="0.986301362514"/>
+				<controlpoint t="0.471678302900" val="0.054794549942"/>
+			</envelope>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="Harder Better Faster Stronger (Studio Acapella) - Daft Punk (1)" channel="1" linked="0" mute="0" solo="0" height="148" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="20881">
+				<waveblock start="0">
+					<simpleblockfile filename="e0000e82.au" len="20881" min="-0.459485" max="0.78129" rms="0.08266"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="4">
+				<controlpoint t="0.000005000000" val="0.164383590221"/>
+				<controlpoint t="0.009035982814" val="1.000000000000"/>
+				<controlpoint t="0.428305585392" val="0.986301362514"/>
+				<controlpoint t="0.471678302900" val="0.054794549942"/>
+			</envelope>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="Harder Better Faster Stronger (Studio Acapella) - Daft Punk (1)" channel="0" linked="1" mute="0" solo="0" height="152" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="21199">
+				<waveblock start="0">
+					<simpleblockfile filename="e00005dc.au" len="21199" min="-0.559062" max="0.585457" rms="0.091208"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="4">
+				<controlpoint t="0.000000000000" val="0.156380611282"/>
+				<controlpoint t="0.018071965628" val="1.431506872177"/>
+				<controlpoint t="0.471678302900" val="1.000000000000"/>
+				<controlpoint t="0.477083554720" val="0.849315047264"/>
+			</envelope>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="Harder Better Faster Stronger (Studio Acapella) - Daft Punk (1)" channel="1" linked="0" mute="0" solo="0" height="148" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="21199">
+				<waveblock start="0">
+					<simpleblockfile filename="e0000644.au" len="21199" min="-0.547334" max="0.666538" rms="0.096811"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="4">
+				<controlpoint t="0.000000000000" val="0.156380611282"/>
+				<controlpoint t="0.018071965628" val="1.431506872177"/>
+				<controlpoint t="0.471678302900" val="1.000000000000"/>
+				<controlpoint t="0.477083554720" val="0.849315047264"/>
+			</envelope>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="Harder Better Faster Stronger (Studio Acapella) - Daft Punk (1)" channel="0" linked="1" mute="0" solo="0" height="152" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="21658">
+				<waveblock start="0">
+					<simpleblockfile filename="e0000017.au" len="21658" min="-0.57272" max="0.543059" rms="0.082509"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="4">
+				<controlpoint t="0.001807196563" val="0.013698637486"/>
+				<controlpoint t="0.014457572503" val="1.000000000000"/>
+				<controlpoint t="0.470322905478" val="1.000000000000"/>
+				<controlpoint t="0.489298469388" val="0.000000100000"/>
+			</envelope>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="Harder Better Faster Stronger (Studio Acapella) - Daft Punk (1)" channel="1" linked="0" mute="0" solo="0" height="148" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="21658">
+				<waveblock start="0">
+					<simpleblockfile filename="e0000eff.au" len="21658" min="-0.605461" max="0.575412" rms="0.096355"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="4">
+				<controlpoint t="0.001807196563" val="0.013698637486"/>
+				<controlpoint t="0.014457572503" val="1.000000000000"/>
+				<controlpoint t="0.470322905478" val="1.000000000000"/>
+				<controlpoint t="0.489298469388" val="0.000000100000"/>
+			</envelope>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="Harder Better Faster Stronger (Studio Acapella) - Daft Punk (1)" channel="0" linked="1" mute="0" solo="0" height="152" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="5291906">
+				<waveblock start="0">
+					<simpleblockfile filename="e0000eaf.au" len="238442" min="-0.57272" max="0.663456" rms="0.113105"/>
+				</waveblock>
+				<waveblock start="238442">
+					<simpleblockfile filename="e0000584.au" len="184088" min="-0.618032" max="0.671402" rms="0.083617"/>
+				</waveblock>
+				<waveblock start="422530">
+					<simpleblockfile filename="e0000b1f.au" len="262144" min="-0.749109" max="0.718923" rms="0.146545"/>
+				</waveblock>
+				<waveblock start="684674">
+					<simpleblockfile filename="e0000606.au" len="262144" min="-0.743794" max="0.746722" rms="0.152038"/>
+				</waveblock>
+				<waveblock start="946818">
+					<simpleblockfile filename="e0000123.au" len="262144" min="-0.746914" max="0.683924" rms="0.146346"/>
+				</waveblock>
+				<waveblock start="1208962">
+					<simpleblockfile filename="e0000822.au" len="262144" min="-0.58736" max="0.631216" rms="0.143533"/>
+				</waveblock>
+				<waveblock start="1471106">
+					<simpleblockfile filename="e0000974.au" len="262144" min="-0.647456" max="0.687512" rms="0.142954"/>
+				</waveblock>
+				<waveblock start="1733250">
+					<simpleblockfile filename="e00009dc.au" len="262144" min="-0.610788" max="0.606444" rms="0.124004"/>
+				</waveblock>
+				<waveblock start="1995394">
+					<simpleblockfile filename="e0000303.au" len="262144" min="-0.725889" max="0.660085" rms="0.150305"/>
+				</waveblock>
+				<waveblock start="2257538">
+					<simpleblockfile filename="e0000c9a.au" len="262144" min="-0.575759" max="0.651466" rms="0.119506"/>
+				</waveblock>
+				<waveblock start="2519682">
+					<simpleblockfile filename="e00005c6.au" len="262144" min="-0.519268" max="0.610494" rms="0.052235"/>
+				</waveblock>
+				<waveblock start="2781826">
+					<simpleblockfile filename="e00004d7.au" len="262144" min="-0.70942" max="0.682228" rms="0.116516"/>
+				</waveblock>
+				<waveblock start="3043970">
+					<simpleblockfile filename="e000041b.au" len="262144" min="-0.612045" max="0.619083" rms="0.130035"/>
+				</waveblock>
+				<waveblock start="3306114">
+					<simpleblockfile filename="e000020f.au" len="262144" min="-0.698308" max="0.71084" rms="0.131133"/>
+				</waveblock>
+				<waveblock start="3568258">
+					<simpleblockfile filename="e0000498.au" len="262144" min="-0.746836" max="0.766645" rms="0.132856"/>
+				</waveblock>
+				<waveblock start="3830402">
+					<simpleblockfile filename="e00004d8.au" len="262144" min="-0.575797" max="0.64718" rms="0.129359"/>
+				</waveblock>
+				<waveblock start="4092546">
+					<simpleblockfile filename="e0000d16.au" len="262144" min="-0.612804" max="0.754036" rms="0.124993"/>
+				</waveblock>
+				<waveblock start="4354690">
+					<simpleblockfile filename="e0000690.au" len="262144" min="-0.663151" max="0.738803" rms="0.117532"/>
+				</waveblock>
+				<waveblock start="4616834">
+					<simpleblockfile filename="e0000b95.au" len="262144" min="-0.656635" max="0.621765" rms="0.131745"/>
+				</waveblock>
+				<waveblock start="4878978">
+					<simpleblockfile filename="e0000d03.au" len="262144" min="-0.667025" max="0.678333" rms="0.14831"/>
+				</waveblock>
+				<waveblock start="5141122">
+					<simpleblockfile filename="e0000b55.au" len="150784" min="-0.393517" max="0.606678" rms="0.026319"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="Harder Better Faster Stronger (Studio Acapella) - Daft Punk (1)" channel="1" linked="0" mute="0" solo="0" height="148" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="5291906">
+				<waveblock start="0">
+					<simpleblockfile filename="e0000245.au" len="238442" min="-0.605461" max="0.826753" rms="0.123214"/>
+				</waveblock>
+				<waveblock start="238442">
+					<simpleblockfile filename="e00000e0.au" len="184088" min="-0.639575" max="0.65702" rms="0.08846"/>
+				</waveblock>
+				<waveblock start="422530">
+					<simpleblockfile filename="e0000f88.au" len="262144" min="-0.725265" max="0.764382" rms="0.154438"/>
+				</waveblock>
+				<waveblock start="684674">
+					<simpleblockfile filename="e00006d7.au" len="262144" min="-0.690149" max="0.775158" rms="0.162057"/>
+				</waveblock>
+				<waveblock start="946818">
+					<simpleblockfile filename="e0000d00.au" len="262144" min="-0.697556" max="0.768085" rms="0.153825"/>
+				</waveblock>
+				<waveblock start="1208962">
+					<simpleblockfile filename="e0000ba2.au" len="262144" min="-0.673805" max="0.660742" rms="0.154532"/>
+				</waveblock>
+				<waveblock start="1471106">
+					<simpleblockfile filename="e00009f0.au" len="262144" min="-0.741012" max="0.732542" rms="0.154904"/>
+				</waveblock>
+				<waveblock start="1733250">
+					<simpleblockfile filename="e000005a.au" len="262144" min="-0.656621" max="0.732652" rms="0.134826"/>
+				</waveblock>
+				<waveblock start="1995394">
+					<simpleblockfile filename="e00005eb.au" len="262144" min="-0.708725" max="0.687198" rms="0.165367"/>
+				</waveblock>
+				<waveblock start="2257538">
+					<simpleblockfile filename="e0000218.au" len="262144" min="-0.61224" max="0.777436" rms="0.136623"/>
+				</waveblock>
+				<waveblock start="2519682">
+					<simpleblockfile filename="e00003ef.au" len="262144" min="-0.641167" max="0.668531" rms="0.05656"/>
+				</waveblock>
+				<waveblock start="2781826">
+					<simpleblockfile filename="e0000315.au" len="262144" min="-0.722785" max="0.698741" rms="0.12766"/>
+				</waveblock>
+				<waveblock start="3043970">
+					<simpleblockfile filename="e00009d6.au" len="262144" min="-0.698249" max="0.645675" rms="0.135712"/>
+				</waveblock>
+				<waveblock start="3306114">
+					<simpleblockfile filename="e00009a9.au" len="262144" min="-0.716212" max="0.75667" rms="0.139671"/>
+				</waveblock>
+				<waveblock start="3568258">
+					<simpleblockfile filename="e0000f01.au" len="262144" min="-0.84175" max="0.663654" rms="0.145803"/>
+				</waveblock>
+				<waveblock start="3830402">
+					<simpleblockfile filename="e00007f7.au" len="262144" min="-0.703808" max="0.78035" rms="0.133878"/>
+				</waveblock>
+				<waveblock start="4092546">
+					<simpleblockfile filename="e0000516.au" len="262144" min="-0.701356" max="0.784887" rms="0.136903"/>
+				</waveblock>
+				<waveblock start="4354690">
+					<simpleblockfile filename="e0000ef5.au" len="262144" min="-0.776585" max="0.830223" rms="0.128833"/>
+				</waveblock>
+				<waveblock start="4616834">
+					<simpleblockfile filename="e0000777.au" len="262144" min="-0.758503" max="0.707859" rms="0.135843"/>
+				</waveblock>
+				<waveblock start="4878978">
+					<simpleblockfile filename="e0000d64.au" len="262144" min="-0.758042" max="0.755555" rms="0.159282"/>
+				</waveblock>
+				<waveblock start="5141122">
+					<simpleblockfile filename="e00005d6.au" len="150784" min="-0.422288" max="0.707951" rms="0.02699"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="Harder Better Faster Stronger (Studio Acapella) - Daft Punk (1)" channel="0" linked="1" mute="0" solo="0" height="152" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="34509">
+				<waveblock start="0">
+					<simpleblockfile filename="e0000b09.au" len="34509" min="-0.399774" max="0.627848" rms="0.080062"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="Harder Better Faster Stronger (Studio Acapella) - Daft Punk (1)" channel="1" linked="0" mute="0" solo="0" height="148" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="34509">
+				<waveblock start="0">
+					<simpleblockfile filename="e0000217.au" len="34509" min="-0.418177" max="0.758783" rms="0.079525"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="Harder Better Faster Stronger (Studio Acapella) - Daft Punk (1)" channel="0" linked="1" mute="0" solo="0" height="152" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="24308">
+				<waveblock start="0">
+					<simpleblockfile filename="e0000a22.au" len="24308" min="-0.460632" max="0.663456" rms="0.077232"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="3">
+				<controlpoint t="0.522279806660" val="1.000000000000"/>
+				<controlpoint t="0.538318676155" val="0.109589040279"/>
+				<controlpoint t="0.551196814059" val="0.000000100000"/>
+			</envelope>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="Harder Better Faster Stronger (Studio Acapella) - Daft Punk (1)" channel="1" linked="0" mute="0" solo="0" height="148" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="24308">
+				<waveblock start="0">
+					<simpleblockfile filename="e0000527.au" len="24308" min="-0.48394" max="0.826753" rms="0.08284"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="3">
+				<controlpoint t="0.522279806660" val="1.000000000000"/>
+				<controlpoint t="0.538318676155" val="0.109589040279"/>
+				<controlpoint t="0.551196814059" val="0.000000100000"/>
+			</envelope>
+		</waveclip>
+	</wavetrack>
+</project>
