@@ -60,7 +60,13 @@ function playSound(e){
       switch(pitch) {
             case pitch = "low":
                toggleKey = Array.from(document.querySelectorAll('.toggle:not(.low)'));
-               toggleKey.forEach(key => key.classList.remove('playing'));
+               toggleKey.forEach(key =>{
+                    if(key.dataset.key != 32){
+                    key.classList.remove('playing');
+                    }else{
+                        console.log("space");
+                    }
+                });
                root.style.setProperty('--main-color', 'rgb(255, 0, 149)');
                let audioSrc = Array.from(document.querySelectorAll('.has-low'));
                audioSrc.forEach(srcA => srcA.src = srcA.src.replace(/-.*\./, '-low.'));
@@ -68,18 +74,30 @@ function playSound(e){
             
             case pitch = "high":
                     toggleKey = Array.from(document.querySelectorAll('.toggle:not(.high)'));
-                    toggleKey.forEach(key => key.classList.remove('playing'));
+                    toggleKey.forEach(key =>{
+                        if(key.dataset.key!=32){
+                            key.classList.remove('playing');
+                        }else{
+                            console.log("space");
+                        }
+                    });
                 root.style.setProperty('--main-color', "rgb(0, 255, 115)"); 
-                let audioSrch = Array.from(document.querySelectorAll('audio'));
+                let audioSrch = Array.from(document.querySelectorAll('.audiol:not(.space)'));
                 audioSrch.forEach(srcA => srcA.src = srcA.src.replace(/-.*\./, '-high.'));  
-                console.log(audioSrch);
+                console.log(toggleKey);
             break;
 
             default:
                     toggleKey = Array.from(document.querySelectorAll('.toggle:not(.normal)'));
-                    toggleKey.forEach(key => key.classList.remove('playing'));
+                    toggleKey.forEach(key =>{
+                        if(key.dataset.key !=32){
+                            key.classList.remove('playing');
+                        }else{
+                            console.log("space");
+                        }
+                    });
                     root.style.setProperty('--main-color', "rgb(0, 217, 255)"); 
-                    let audioSrcn = Array.from(document.querySelectorAll('audio'));
+                    let audioSrcn = Array.from(document.querySelectorAll('.audiol:not(.space)'));
                     audioSrcn.forEach(srcA => srcA.src = srcA.src.replace(/-.*\./, '-normal.')); 
                     
                     
