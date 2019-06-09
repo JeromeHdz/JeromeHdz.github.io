@@ -1,0 +1,151 @@
+@charset "utf-8";
+
+// Customization
+
+// You can easily customize Bulma with your own variables.
+// Just uncomment the following block to see the result.
+
+
+// 1. Import the initial variables
+@import "../node_modules/bulma/sass/utilities/initial-variables";
+
+// 2. Set your own initial variables
+// Update the blue shade, used for links
+$blue: #06bcef;
+// Add pink and its invert
+$pink: #ff8080;
+$pink-invert: #fff;
+// Update the sans-serif font family
+$family-sans-serif: "Helvetica", "Arial", sans-serif;
+
+// 3. Set the derived variables
+// Use the new pink as the primary color
+$primary: $pink;
+$primary-invert: $pink-invert;
+
+// 4. Import the rest of Bulma
+
+
+@import "../node_modules/bulma/bulma";
+
+
+ul {
+	list-style: none;
+	margin: 0;
+    padding: 0;
+    overflow-y:hidden;
+	li {
+		display: inline-block;
+		clear: both;
+        padding: 20px;
+        max-width: 60%;
+		border-radius: 30px;
+		margin-bottom: 2px;
+        font-family: Helvetica, Arial, sans-serif;
+        animation: slide-up 0.4s ease;
+	}
+}
+.gaia-message  {
+	background: #eee;
+	float: left;
+	+ {
+		.me {
+			border-bottom-right-radius: 5px;
+		}
+	}
+}
+.me {
+	float: right;
+	background: #0084ff;
+	color: #fff;
+	+ {
+		.me {
+			border-top-right-radius: 5px;
+			border-bottom-right-radius: 5px;
+		}
+	}
+	&:last-of-type, &:nth-last-of-type(2) {
+		border-bottom-right-radius: 30px;
+	}
+}
+
+@keyframes slide-up {
+    0% {
+        opacity: 0;
+        transform: translateY(20px);
+    }
+    100% {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+//Loading dots////
+.loading-msg{
+    opacity: 0;
+    -webkit-transition: width 2s; /* Safari prior 6.1 */
+    transition: opacity 0.2s;
+    transition-timing-function: ease-in-out;
+    
+}
+
+.lds-ellipsis {
+    display: inline-block;
+    position: relative;
+    width: 64px;
+    max-height: 64px;
+    padding-top: 0x;
+    padding-right: 0px;
+  }
+  .lds-ellipsis div {
+      text-align: right;
+    position: absolute;
+    width: 6px;
+    height: 6px;
+    top: -8px;
+    border-radius: 50%;
+    background: #fff;
+    animation-timing-function: cubic-bezier(0, 1, 1, 0);
+  }
+  .lds-ellipsis div:nth-child(1) {
+    left: 6px;
+    animation: lds-ellipsis1 0.6s infinite;
+  }
+  .lds-ellipsis div:nth-child(2) {
+    left: 6px;
+    animation: lds-ellipsis2 0.6s infinite;
+  }
+  .lds-ellipsis div:nth-child(3) {
+    left: 26px;
+    animation: lds-ellipsis2 0.6s infinite;
+  }
+  .lds-ellipsis div:nth-child(4) {
+    left: 45px;
+    animation: lds-ellipsis3 0.6s infinite;
+  }
+
+  @keyframes lds-ellipsis1 {
+    0% {
+      transform: scale(0);
+    }
+    100% {
+      transform: scale(1);
+    }
+  }
+  @keyframes lds-ellipsis3 {
+    0% {
+      transform: scale(1);
+    }
+    100% {
+      transform: scale(0);
+    }
+  }
+  @keyframes lds-ellipsis2 {
+    0% {
+      transform: translate(0, 0);
+    }
+    100% {
+      transform: translate(19px, 0);
+    }
+  }
+  
