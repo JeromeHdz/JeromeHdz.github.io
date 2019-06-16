@@ -11,7 +11,7 @@
 
 // 2. Set your own initial variables
 // Update the blue shade, used for links
-$blue: #06bcef;
+$blue: #209CEE;
 // Add pink and its invert
 $pink: #ff8080;
 $pink-invert: #fff;
@@ -28,12 +28,32 @@ $primary-invert: $pink-invert;
 
 @import "../node_modules/bulma/bulma";
 
+/* width */
+::-webkit-scrollbar {
+    width: 20px;
+  }
+
+  /* Handle */
+::-webkit-scrollbar-thumb {
+    background: $blue; 
+    border-radius: 10px;
+  }
+  
+  /* Handle on hover */
+  ::-webkit-scrollbar-thumb:hover {
+    background: rgb(15, 76, 117);
+  }
+
+.message-body{
+    max-height: 80vh;
+    overflow-y:scroll;
+}
 
 ul {
 	list-style: none;
 	margin: 0;
     padding: 0;
-    overflow-y:hidden;
+    
 	li {
 		display: inline-block;
 		clear: both;
@@ -56,7 +76,7 @@ ul {
 }
 .me {
 	float: right;
-	background: #0084ff;
+	background: $blue;
 	color: #fff;
 	+ {
 		.me {

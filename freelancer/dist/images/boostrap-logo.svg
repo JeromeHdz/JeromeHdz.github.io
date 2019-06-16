@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:1.41421;">
+    <g transform="matrix(1,0,0,1,-42.5824,3.55271e-15)">
+        <g id="boostrap-logo" transform="matrix(0.0199176,0,0,0.0199176,62.5,20)">
+            <g transform="matrix(1,0,0,1,-1000,-1004.14)">
+                <clipPath id="_clip1">
+                    <rect x="0" y="0" width="2000" height="2008.28"/>
+                </clipPath>
+                <g clip-path="url(#_clip1)">
+                    <g id="layer1" transform="matrix(15.623,0,0,15.623,-3987.6,-6644.88)">
+                        <rect id="rect3050" x="255.239" y="425.326" width="128.016" height="128.546" style="fill:url(#_Linear2);"/>
+                        <g id="path3841" transform="matrix(1.0052,0,0,0.994826,0,0)">
+                            <path d="M318.556,483.165C321.809,483.165 324.275,482.45 325.955,481.021C327.635,479.591 328.475,477.482 328.475,474.695C328.475,471.943 327.635,469.852 325.955,468.422C324.275,466.957 321.809,466.224 318.556,466.224L307.137,466.224L307.137,483.165L318.556,483.165M319.253,518.174C323.399,518.174 326.509,517.298 328.582,515.547C330.69,513.795 331.745,511.151 331.745,507.612C331.745,504.145 330.708,501.554 328.635,499.838C326.562,498.087 323.435,497.212 319.253,497.211L307.137,497.211L307.137,518.174L319.253,518.174M338.446,489.384C342.878,490.671 346.309,493.048 348.74,496.515C351.17,499.981 352.385,504.235 352.385,509.274C352.385,516.994 349.776,522.748 344.558,526.537C339.34,530.326 331.405,532.22 320.754,532.22L286.497,532.22L286.497,452.178L317.484,452.178C328.6,452.178 336.641,453.858 341.609,457.217C346.613,460.577 349.115,465.956 349.115,473.354C349.115,477.25 348.204,480.574 346.381,483.326C344.558,486.042 341.913,488.062 338.446,489.384" style="fill:white;fill-rule:nonzero;"/>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <defs>
+        <linearGradient id="_Linear2" x1="0" y1="0" x2="1" y2="0" gradientUnits="userSpaceOnUse" gradientTransform="matrix(112.753,-114.722,114.722,112.753,262.624,547.206)"><stop offset="0" style="stop-color:rgb(7,1,53);stop-opacity:1"/><stop offset="1" style="stop-color:rgb(97,45,80);stop-opacity:1"/></linearGradient>
+    </defs>
+</svg>
